@@ -1,7 +1,7 @@
 # Wave breaking patterns identification method automatically
 This code allow to transform images from png or jpg file to matrix to make a prediction with Duck Model proposed for Sáez et al. (2021)
 
-- Link Paper: [Wave-by-wave Nearshore Wave Breaking Identificationusing U-Net](https://www.sciencedirect.com/science/article/pii/S037838392100168X)
+- Link Paper: [Wave-by-wave Nearshore Wave Breaking Identification using U-Net](https://www.sciencedirect.com/science/article/pii/S037838392100168X)
 
 - Link Repository: [Wave-by-wave_identification](https://github.com/fj23eslaonda/Wave_by_Wave_Identification)
 
