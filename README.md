@@ -22,9 +22,9 @@ source my-project-env/bin/activate
 pip3 install -r requirements.txt
 ```
 
-# Use Duck model to make predictions
-
+# Use Duck model
 ```
 cd REPO_ROOT_DIR
 sh prediction_model.sh
 ```
+**if you have larger images than 512x512 pixels you need to modify upsize_image and downsize_img functions in main.py**
