@@ -1,0 +1,9 @@
+tensorflow-gpu==2.6.0
+opencv-python
+matplotlib
+numpy
+scikit-image
+scikit-learn
+pillow
+tqdm
+ipywidgets
