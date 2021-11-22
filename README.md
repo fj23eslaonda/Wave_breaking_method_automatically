@@ -7,15 +7,16 @@ Link Repository: [Wave-by-wave_identification](https://github.com/fj23eslaonda/W
 # Installation
 To use the Duck model it is necessary to install specific packages. Therefore, it is recommended to create a virtual environment to install the packages.
 
-### Install Virtual Environment 
+
+Install Virtual Environment 
 ```
 sudo apt install python3-venv
 ```
-### Create Virtual Environment 
+Create Virtual Environment 
 ```
 python3 -m venv my-project-env
 ```
-### Activate environment and install packages
+Activate environment and install packages
 ```
 source my-project-env/bin/activate
 pip3 install -r requirements.txt
